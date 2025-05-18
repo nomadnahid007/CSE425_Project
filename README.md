@@ -1,5 +1,6 @@
 # CSE425_Project
-# A-DEC++: Adaptive Deep Embedding Clustering
+# A-DEC++: An Adaptive Deep Embedding Clustering Framework for Unsupervised Text
+Clustering
 This repository contains the implementation of A-DEC++, a neural network-based unsupervised clustering framework used for DBpedia as the primary dataset and 20 Newsgroups text datasets just for generalization.
 
 ## 📁 Contents
